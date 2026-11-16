@@ -26,5 +26,9 @@
   "Package_Fun": {
     "version": "3.0.0",
     "lien": "https://portal.cfx.re/"
+  },
+  "Chat_Fun": {
+    "version": "1.0.0",
+    "lien": "https://portal.cfx.re/"
   }
 }
